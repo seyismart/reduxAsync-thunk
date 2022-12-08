@@ -8,8 +8,9 @@ Follow these instructions to run the demo app locally:
 https://github.com/seyismart/reduxAsync-thunk
 $ cd shopping_ReduxTk
 
-### `npm start`
+# No css/css frame work is used!
 
+### `npm start`
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
